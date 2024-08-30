@@ -1,0 +1,33 @@
+Quickly the required animations are
+>idle
+>walk
+>run
+>light shoot
+>heavy shoot
+>light melee 1
+>light melee 2
+>light melee 3
+>heavy melee 1
+>heavy melee 2
+>heavy melee 3
+>half turbo
+>full turbo
+>pain
+>die
+>level entrance.
+
+Some explenations
+Melaa Attacks
+you only do melee moves when in melee range otherwise you shoot. you can chain 3 light melee attacks. pressing heavy attack after 1, 2 , and 3 light attscks does a heavymove with different levels of aoe.
+the 3 light .oves should be very simple weapons swings that chain together.
+the heavy moves end the combo, maybe end on a sweet pose. one heavy attack should be a focus attack on one enemy. another one should get enemies in 360 degrees. the last shoud move the character forward 
+with the attack. they can and should be in any order so thatvplayers jave to learn the combo for the right attack for each class. jeavy attacks could make use of particle effects but that would have to be done in unity, i assume.
+
+Turbo
+gauntlet has this turbo meter. it increase when you deal and receive damage. it gives access to desperation moves.
+the turbos are big attacks that insta kill mobs in big groups. they definetely involve particles as well as extra meshes. i recommend looking up videos of them to get the idea. the half turbo kills all enemies around you. the full 
+turbo spawns a big(possibly animated) projectile that kills everything in a path with a very wide hitbox. the sorceress spawned a crowd of skeletons that ran forward the dwarf spawned a cheesy looking model of a "fissure" that 
+just moved forward. it could be anything with emphasis on being impressive and powerful.
+
+Level Entrance
+players teleport in to the beginnings of levels and have a little entrance animation that's as simple as standing up from a kneel or big cartoony jumps. just them emerging, rising, descending, etc to play at the beginning of a level.
